@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/github/forks/Rdimo/pip-install-bitches?label=Forks&style=flat-square" </a>
 </p>
 
-#### pip-install-bitches was made by
-Love ❌ code ✅
+#### pip-install-bitches was made with
+Love ✅ and code ✅
 
 ---
 ### 🎈・Code example
