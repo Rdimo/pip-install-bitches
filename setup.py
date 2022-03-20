@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 __name__ = "bitches"
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 
 setup(
     name=__name__,
@@ -15,6 +15,7 @@ setup(
     project_urls={
       "Bug Tracker": "https://github.com/rdimo/pip-install-bitches/issues",
     },
+    install_requires=['requests'],
     packages=find_packages(),
     keywords=['bitches', 'python', 'package', 'library', 'lib', 'module', 'checker'],
     classifiers=[
