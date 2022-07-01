@@ -38,6 +38,7 @@ or
 
 bitches.get(
   "yes", # directory name (default: "bitches")
-  5 # amount of bitches (default: randint(5, 10))
+  5, # amount of bitches (default: randint(5, 10))
+  "neko" # type of bitches to get (default: "waifu")
 )
 ```
